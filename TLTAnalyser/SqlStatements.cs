@@ -13,5 +13,6 @@ namespace TLTAnalyser
                                "Trusted_Connection=no;" +
                                "database=order_database; " +
                                "connection timeout=30";
+
     }
 }
